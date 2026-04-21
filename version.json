@@ -1,11 +1,5 @@
-
 {
-    "version": "1.0.29",
-    "url": "https://github.com/ag7008335-dot/Ai-update-win-app/releases/download/update/AiCounter.exe",
-    "notes": "🖥️ Fullscreen support was added/improved for Reaction mode
-🔊 Auditory mode is now better and clearer
-🔁 Repeat Test was added for quick retesting
-🎯 Zones are now clearer and more visible
-✅ Auditory feedback and guidance were further improved "
-
+  "version": "1.0.29",
+  "url": "https://github.com/ag7008335-dot/Ai-update-win-app/releases/download/update/AiCounter.exe",
+  "notes": "🖥️ Fullscreen support was added/improved for Reaction mode\n🔊 Auditory mode is now better and clearer\n🔁 Repeat Test was added for quick retesting\n🎯 Zones are now clearer and more visible\n✅ Auditory feedback and guidance were further improved"
 }
