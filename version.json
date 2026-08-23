@@ -1,5 +1,9 @@
 {
-  "version": "1.0.31",
-  "url": "https://github.com/ag7008335-dot/Ai-update-win-app/releases/download/update/AiCounter.exe",
-  "notes": "🖥️ Fullscreen support was added/improved for Reaction mode\n🔊 Auditory mode is now better and clearer\n🔁 Repeat Test was added for quick retesting\n🎯 Zones are now clearer and more visible\n✅ Auditory feedback and guidance were further improved"
+  "app": "Pylon",
+  "product": "Pylon Win App",
+  "channel": "stable",
+  "version": "1.0.0",
+  "published": "2026-08-24",
+  "url": "https://github.com/ag7008335-dot/Ai-update-win-app/releases/download/v1.0.0/Pylon.exe",
+  "notes": "🚀 Pylon 1.0.0 — اولین نسخه پایدار\n\n✅ تست‌های اصلی:\n• پرش عمودی و بوسکو\n• پرش طرفین (Side Jump)\n• زمان واکنش (بصری / شنیداری / STI-T3)\n• تعادل پویا\n• پله کویین (Queens Step) با VO₂max\n\n👤 مدیریت ورزشکار:\n• پروفایل، تیم، و تست گروهی\n• گزارش باتری عملکرد (Battery Report)\n• نرم‌های عملکرد و گزارش Pro\n\n🔧 سخت‌افزار و سیستم:\n• اتصال بلوتوث ضربان قلب (Queens Step)\n• پشتیبانی دوربین و فایل ویدیو\n• تم روشن / تاریک\n• سیستم بوق یکپارچه برای تست‌ها\n\n📦 برای نصب: Settings → System Update → Install Now"
 }
